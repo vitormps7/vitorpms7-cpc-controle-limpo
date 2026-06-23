@@ -1,0 +1,9 @@
+{
+  "calculos": [
+    {"processo":"0001234-45.2024.8.26.0100","cliente":"João da Silva","tipo":"Cálculo Trabalhista","status":"Em andamento","valor":8500.0,"recebido":5300.0,"atualizacao":"23/05/2026"},
+    {"processo":"1005678-12.2024.8.26.0050","cliente":"Maria Oliveira","tipo":"Liquidação de Sentença","status":"Entregue","valor":6200.0,"recebido":6200.0,"atualizacao":"22/05/2026"},
+    {"processo":"1011121-33.2023.8.26.0704","cliente":"Carlos Pereira","tipo":"Cálculo Trabalhista","status":"Aguardando cobrança","valor":5800.0,"recebido":0.0,"atualizacao":"22/05/2026"},
+    {"processo":"0009876-54.2024.8.26.0100","cliente":"Fernanda Costa","tipo":"Revisão de Cálculos","status":"Em revisão","valor":4750.0,"recebido":2600.0,"atualizacao":"21/05/2026"},
+    {"processo":"2002468-79.2023.8.26.0002","cliente":"Empresa XYZ Ltda.","tipo":"Impugnação de Cálculos","status":"Quitado","valor":3600.0,"recebido":3600.0,"atualizacao":"20/05/2026"}
+  ]
+}

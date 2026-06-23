@@ -1,3 +1,0 @@
-* text=auto eol=lf
-*.py text eol=lf
-*.txt text eol=lf
